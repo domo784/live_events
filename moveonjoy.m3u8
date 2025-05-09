@@ -628,7 +628,7 @@ http://fl1.moveonjoy.com/SHOWTIME_2/index.m3u8
 http://fl1.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Next.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-next-us.png?raw=true" tvg-name="Showtime Next",Showtime Next
-http://fl6.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+http://fl3.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 group-title="Movies" tvg-id="Showtime.Women.HD.-.Eastern.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/showtime-women-us.png?raw=true" tvg-name="Showtime Women",Showtime Women
 http://fl1.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
