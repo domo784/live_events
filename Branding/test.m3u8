@@ -16,7 +16,7 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/FX/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/index.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="TV ABIERTA", HISTORY2
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" group-title="TV ABIERTA", LIFETIME
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/LIFETIME/index.m3u8
@@ -34,22 +34,22 @@ https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/STAR/index.m3u8
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/VH1/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CINEMAX
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/tracks-v1a2/mono.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINEMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", SPACE
 https://cors-proxy.cooks.fyi/http://181.78.107.162:49000/play/a0iz/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", CINECANAL
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v1a2/mono.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/CINECANAL/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", HBO PLUS
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a2/mono.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_PLUS/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", HBO FAMILY
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a2/mono.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HBO_FAMILY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", HISTORY
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/tracks-v1a2/mono.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/HISTORY/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", HISTORY2
 https://streamer1.nexgen.bz/HISTORY2/tracks-v1a2/mono.m3u8
@@ -67,4 +67,4 @@ https://cors-proxy.cooks.fyi/http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/in
 https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", AXN
-https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/tracks-v1a1/mono.m3u8
