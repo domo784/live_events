@@ -61,10 +61,10 @@ https://streamer1.nexgen.bz/DISCOVERY/index.m3u8
 https://streamer1.nexgen.bz/DISCOVERY_TURBO/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", H&H
-http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8
+https://cors-proxy.cooks.fyi/http://181.114.57.246:4000/play/qUqJGdarkz5aTfGt/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", NAT GEO
-https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/NAT_GEO/index.m3u8
 
 #EXTINF:-1 group-title="TV ABIERTA", AXN
-https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
+https://cors-proxy.cooks.fyi/https://streamer1.nexgen.bz/AXN/tracks-v1a2/mono.m3u8
